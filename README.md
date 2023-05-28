@@ -1,4 +1,4 @@
-# Wepack-starter-template
+# wepack-starter-template
 
 A minimal starter project for building frontend applications, bundled using Webpack 5.
 
