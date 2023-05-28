@@ -4,14 +4,23 @@ A minimal starter project for building frontend applications, bundled using Webp
 
 ## Getting started
 
-Entry point is src/index.js. Built content is stored under dist/.
+Install dependencies (incl. webpack). Note: This project only defines dev dependencies.
 
-To build your project
+```bash
+npm i
+```
+
+Entry point is src/index.js. Built content is stored under dist/. To build your project, run:
 ```bash
 npm run build
 ```
 
-To launch dev server
+To launch development server, run:
 ```bash
 npm run dev
+```
+
+To deploy the built index.html page to the project's github page (<username>.github.io/<project-name>/), run:
+```bash
+npm run deploy
 ```
