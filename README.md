@@ -20,7 +20,7 @@ To launch development server, run:
 npm run dev
 ```
 
-To deploy the built index.html page to the project's github page `(<username>.github.io/<project-name>/)`, run:
+To deploy the built index.html page to the project's github page `https://<username>.github.io/<project-name>/`, run:
 ```bash
 npm run deploy
 ```
