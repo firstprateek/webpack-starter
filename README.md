@@ -24,3 +24,17 @@ To deploy the built index.html page to the project's github page `https://<usern
 ```bash
 npm run deploy
 ```
+
+## Remove un-needed code
+
+Clean up unused assets and code from:
+
+src/assets
+src/styles
+src/helloWorld.js
+
+## Update description
+
+README.md
+package.json
+meta tags in template.html
