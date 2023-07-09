@@ -29,12 +29,12 @@ npm run deploy
 
 Clean up unused assets and code from:
 
-src/assets
-src/styles
-src/helloWorld.js
+- src/assets
+- src/styles
+- src/helloWorld.js
 
 ## Update description
 
-README.md
-package.json
-meta tags in template.html
+- README.md
+- package.json
+- meta tags in template.html
